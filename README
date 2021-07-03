@@ -1,0 +1,12 @@
+Argv prints the argument list.
+
+Use:
+    $ argv *
+    0       argv
+    1       Makefile
+    2       README
+    3       argv.c
+
+Install:
+    make
+    mv argv /your/favourite/path/bin
