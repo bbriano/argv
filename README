@@ -7,6 +7,9 @@ Use:
     2       README
     3       argv.c
 
-Install:
-    make
-    mv argv /your/favourite/path/bin
+Install (cmake):
+    $ make
+    $ mv argv /your/favourite/path/bin
+
+Install (macOS):
+    $ brew install bbriano/bbriano/argv
