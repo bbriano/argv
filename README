@@ -1,15 +1,15 @@
 Argv prints the argument list.
 
 Use:
-    $ argv *
-    0       argv
-    1       Makefile
-    2       README
-    3       argv.c
+	$ argv *
+	0	argv
+	1	Makefile
+	2	README
+	3	argv.c
 
-Install (cmake):
-    $ make
-    $ mv argv /your/favourite/path/bin
+Install:
+	$ make
+	$ mv argv /your/favourite/path/bin
 
 Install (macOS):
-    $ brew install bbriano/bbriano/argv
+	$ brew install bbriano/bbriano/argv
